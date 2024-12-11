@@ -1,3 +1,8 @@
+<p align="center">
+  <img alt="processo" src="imagem/processo01.jpeg" width="250px" />
+</p>
+
+
 ### Motivação
 > [!IMPORTANT]
 >Um distribuidor de peças para aparelhos eletrodomésticos pretende automatizar seu sistema de vendas.

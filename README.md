@@ -1,5 +1,5 @@
 <p align="center">
-Modelagem De Processos
+Modelagens De Processos
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@ Modelagem De Processos
 
 ## Motivação
 > [!IMPORTANT]
-> Para fins de deixar registrado as atividades de Modelagem de Processos da 3ª unidade da matéria de Teoria Geral dos Sistemas(TGS), ministrada pelo professor Gilson, da faculdade de Sistemas de Informação - 2º Período
+> Para fins de deixar registrado as atividades de Modelagem de Processos da 3ª unidade da matéria de Teoria Geral dos Sistemas(TGS), ministrada pelo professor Gilson, da faculdade de Sistemas de Informação. Os trabalhos foram feitos em un grupo de 5 pessoas nas quais estão listadas ao final desse documento com todas as suas redes sociais e forma de contato. Período de realização -> 2º | 2024.2
 
 ##  Softwares/Linguagens
 

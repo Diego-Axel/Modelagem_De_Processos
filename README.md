@@ -22,7 +22,7 @@ Essas modelagens foram desenvolvidas com o auxílio dos seguintes Softwares:
 
 - [Drow.io](https://app.diagrams.net/)
 
-Essas modelagens foram desenvolvidas com o auxílio da seguintes linguagem:
+Essas modelagens foram desenvolvidas com o auxílio da seguintes linguagem(de Marcação):
 
 - HTML
 

@@ -16,13 +16,13 @@ Modelagens De Processos
 
 ##  Softwares/Linguagens
 
-Essas modelagens foram desenvolvidas com o auxílio dos seguntes Softwares:
+Essas modelagens foram desenvolvidas com o auxílio dos seguintes Softwares:
 
 - [Bizagi](https://www.bizagi.com/pt/plataforma/modeler)
 
 - [Drow.io](https://app.diagrams.net/)
 
-Essas modelagens foram desenvolvidas com o auxílio da segunte linguagem:
+Essas modelagens foram desenvolvidas com o auxílio da seguintes linguagem:
 
 - HTML
 

@@ -52,6 +52,10 @@ Essas modelagens foram desenvolvidas com o auxílio da seguintes linguagem(de Ma
 
 ### José Guilherme -> 
 
+| GitHub | Linkedin | Instagram | Portifólio | E-mail | Celular |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| [oguiaraujo](https://github.com/oguiaraujo) | [Guilherme Araújo](https://www.linkedin.com/in/josé-guilherme-silva-de-araújo-38094530a/) | Null | Null | guilherme531araujo@gmail.com | Null |
+
 ### Kaio Márcio ->
 
 | GitHub | Linkedin | Instagram | Portifólio | E-mail | Celular |
